@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+*.log
+*.tar
+
+
+# Docker build
+*.local
+docker-compose.override.yml
+
+# OS/system
+.DS_Store
+Thumbs.db
